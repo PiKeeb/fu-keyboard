@@ -69,3 +69,4 @@ Can be made out of any sturdy material with the thickness of 1.5mm.
 REV  |  Description
 --|--
 1.0  |  Open-source Release version
+1.1  |  Added the **fu_bottom_logo.step** file with the logo on the bottom part of the case

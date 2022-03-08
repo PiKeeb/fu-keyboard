@@ -30,4 +30,4 @@ After that's done you can plug the power adapter:
 REV  |  Description
 --|--
 1.0  |  Open-source Release version
-1.0*  |  Fixed the LEDs
+1.0.1  |  Fixed the LEDs
